@@ -1,0 +1,3 @@
+[submodule "JZHW-historical-flood-loss"]
+	path = JZHW-historical-flood-loss
+	url = https://github.com/longavailable/JZHW-historical-flood-loss
